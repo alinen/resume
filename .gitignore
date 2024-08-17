@@ -1,3 +1,7 @@
+*.bbl
+*.bcf
+*.xml
+*.blg
 *.gz
 *.log
 *.swp
